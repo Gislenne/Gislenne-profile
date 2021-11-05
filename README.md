@@ -52,7 +52,7 @@
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/gislenne.moia/"/></a>
 </p>  
 
-[![Linkedin: GISLENNE MOIA](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/gislenne-moia-b274ab170)](linkedin.com/in/gislenne-moia-b274ab170)
+[![Linkedin: GISLENNE MOIA](https://img.shields.io/badge/-GISLENNE-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/gislenne-moia-b274ab170)](linkedin.com/in/gislenne-moia-b274ab170)
 [![gislenne.moia611@gmail.com](https://img.shields.io/badge/-gislenne.moia611@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gislenne.moia611@gmail.com)](mailto:gislenne..moia611@gmail.com)
 [![GitHub SEU NOME]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](LINK-DO-SEU-GITHUB)
 
