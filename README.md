@@ -41,20 +41,15 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-<p align="left">
-  <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" /></a>
 
-  <a href="#" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/gislenne-moia-b274ab170" /></a>
 
-  <a href="#" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/gislenne.moia/"/></a>
-</p>  
-
-[![Linkedin: GISLENNE MOIA](https://img.shields.io/badge/-GISLENNE-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/gislenne-moia-b274ab170)](linkedin.com/in/gislenne-moia-b274ab170)
+[![Linkedin: Gislenne](https://img.shields.io/badge/-Gislenne-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/gislenne-moia-b274ab170)](linkedin.com/in/gislenne-moia-b274ab170)
 [![gislenne.moia611@gmail.com](https://img.shields.io/badge/-gislenne.moia611@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gislenne.moia611@gmail.com)](mailto:gislenne..moia611@gmail.com)
-[![GitHub SEU NOME]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](LINK-DO-SEU-GITHUB)
+
+<a href="#" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/gislenne.moia/"/>
+</a>
+</p>  
 
 <!---
 Gislenne/Gislenne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
